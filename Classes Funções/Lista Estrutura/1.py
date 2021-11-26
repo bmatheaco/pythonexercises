@@ -8,8 +8,8 @@ class produto:
 def main():
     a = produto()
     a.nome = input('Informe o nome do produto: ')
-    a.codigo = int(input('Informe o código do produto: ')
-    a.preco = float(input('Informe o preço do produto: ')
-    print('Produto: ', a.nome, \n
-          'Código do produto: ', a.codigo,\n
+    a.codigo = int(input('Informe o código do produto: '))
+    a.preco = float(input('Informe o preço do produto: '))
+    print('Produto: ', a.nome, '\n'
+          'Código do produto: ', a.codigo,'\n'
           'Preço do produto: ', a.preco)
