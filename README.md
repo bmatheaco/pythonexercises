@@ -10,3 +10,6 @@
 [Documentação do Python](https://www.python.org/doc/)
 
 ![CC](https://user-images.githubusercontent.com/62361093/143593430-a41e4f26-379d-46ac-88dd-2d8521a6726a.gif)
+
+
+Professora: [Giovanna Ros](https://github.com/giovanaros)
